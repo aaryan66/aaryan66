@@ -1,16 +1,22 @@
 ## Hi there 👋
+I'm **Aaryan Bhurtel** - a high school(grade XI) student at Deerwalk Sifal School and a data analyst. 
 
-<!--
-**aaryan66/aaryan66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages that I work on
++ SQL(MySQL & PostgreSQL) 
++ Python
++ HTML
++ CSS
 
-Here are some ideas to get you started:
+### Tools that I work on 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ Excel
++ Github
++ Power BI
++ Tableau
+
+**Currently I have been working on [Nepal's Playing 11 analytics project] (https://github.com/aaryan66/nepali_team_playing_11) which is also one of my first projects** 
+
+### How to reach me? 
+
++ [LinkedIn] (https://www.linkedin.com/in/aaryan-bhurtel-bb98a61b2/)
++ [Instagram] (https://www.instagram.com/bhurtellll45) 
