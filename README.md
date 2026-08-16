@@ -14,7 +14,7 @@ I'm **Aaryan Bhurtel** - a high school(grade XI) student at Deerwalk Sifal Schoo
 + Power BI
 + Tableau
 
-**Currently I have been working on [Nepal's Playing 11 analytics project](https://github.com/aaryan66/nepali_team_playing_11) which is also one of my first projects** 
+**Currently I have been working on [CWC 2023 exploratory data analytics project](https://github.com/aaryan66/CWC2023-pandas-analysis) which is also one of my first projects** 
 
 ### How to reach me? 
 
